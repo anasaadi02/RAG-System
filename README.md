@@ -35,17 +35,12 @@ This project implements a Retrieve and Generate (RAG) system that allows users t
     cd your-repo
     ```
 
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the Streamlit app:
+3. Run the Streamlit app:
     ```bash
     streamlit run streamlit_app.py
     ```
 
-5. Open the provided URL in your web browser to interact with the application.
+4. Open the provided URL in your web browser to interact with the application.
 
 ## Usage
 
